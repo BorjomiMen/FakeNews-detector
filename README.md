@@ -168,4 +168,4 @@ accuracy = accuracy_score(true_labels, predictions)
 print(f'Test Accuracy: {accuracy:.4f}')
 ```
 # Dataset
-![You can download dataset from:](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+[You can download dataset from:](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
