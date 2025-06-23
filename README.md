@@ -169,3 +169,5 @@ print(f'Test Accuracy: {accuracy:.4f}')
 ```
 # Dataset
 [You can download dataset from:](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+# Accuracy
+Final Accuracy: 0.999331848552338
